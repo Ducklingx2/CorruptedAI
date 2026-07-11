@@ -17,7 +17,7 @@
 Current Intelligence : Houseplant 🌱
 Corruption Level     : 0.01%
 Stability            : Questionable
-GPU Temperature      : Acceptable
+GPU Temperature      : Guess you could say magma is kinda cold tbh
 Developer Sanity     : Declining
 ```
 
